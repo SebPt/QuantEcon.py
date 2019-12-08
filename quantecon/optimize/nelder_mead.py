@@ -2,6 +2,8 @@
 Implements the Nelder-Mead algorithm for maximizing a function with one or more
 variables.
 
+test changes
+
 """
 
 import numpy as np
